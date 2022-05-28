@@ -1,0 +1,4 @@
+* Pizza
+* Meat
+* Pelmeni
+* Tea
